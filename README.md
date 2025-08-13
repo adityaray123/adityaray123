@@ -1,15 +1,14 @@
 # 💫 Hi 👋, Aditya Ray
 **A Passionate Software Engineer || MERN Developer || I'm from India**
 
-Email Me 👉 ✉️ **adityaray7384@gmail.com** If You Need Anything 😊😊
+Email Me 👉 ✉️ **adityaray7384@gmail.com**
 
 - 🔭 **I’m currently working on:** Ai photo generator website
 - 🌱 **I’m currently learning:** DSA in C++
 - 🤔 **I’m looking for help with:** Any project available 😉
-- 💬 **Ask me about:** Anything XD
-- 📫 **How to reach me:** adityaray7384@gmail.com
+- 💬 **Ask me about:** Ask me anything
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I like Anime
+- ⚡ **Fun fact:** I like coding
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityaray123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
