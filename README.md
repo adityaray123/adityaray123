@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **adityaray7384@gmail.com**
 - 🔭 **I’m currently working on:** Ai photo generator website
 - 🌱 **I’m currently learning:** DSA in C++
 - 🤔 **I’m looking for help with:** Any project available 😉
-- 💬 **Ask me about:** Ask me anything
+- 💬 **Ask me about:** Projects I'm working
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I like coding
 
